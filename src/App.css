@@ -1,0 +1,48 @@
+.App{
+    text-align: center;
+
+  }
+.upload{
+    text-align: center;
+
+}
+.motto{
+    text-align: center;
+    font-size: 100%;
+    text-decoration: underline overline;
+
+}
+.blue{
+    padding: 15% 0;
+}
+.main{
+    background-color: gray;
+}
+body{
+    background: url("https://ak.picdn.net/shutterstock/videos/11726528/thumb/1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.border{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(163, 146, 146);
+    width: 200px;
+    padding: 15px;
+    border: 2px solid rgb(5, 5, 5);
+    margin: 7;
+    opacity: .9;
+}
+.ghost {
+    display: none;
+  }
+.icon{
+    text-align: center;
+font-size: 500%;
+}
+.socials{
+    text-align: right;
+    font-family: "Times New Roman", Times, serif;
+}
